@@ -11,16 +11,17 @@
 			"Automatically built in all cities where it is buildable",
 			"Gain a free [Food Store] [in this city]",
 			"Provides [1] [Weapons]",
-			"Free [Ranger] appears",
+			"[2] free [Opolchenets] units appear",
+		],
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
+		"name": "Opolchenie",
+		"replaces": "Barracks",
 		"uniqueTo": "Aliens",
-		"cost": 80,
+		"cost": 50,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["Free [Opolchenets] appears",
+		"New [Military] units start with [15] Experience [in this city]",
+		],
 	}
 ]
