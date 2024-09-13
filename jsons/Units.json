@@ -8,7 +8,8 @@
 		"strength": 16,
 		"range": 1,
 		"cost": 36,
-		"uniques" [,
+		"uniques" ["Excess Food converted to Production when under construction",
+		],
 		"attackSound": "nonmetalhit",
 	}
 ]
