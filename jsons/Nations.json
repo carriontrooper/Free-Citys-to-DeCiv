@@ -2,6 +2,7 @@
 	{
 		"name": "Free Cites",
 		"leaderName": "Basil Horov",
+		"personality": "Survivalist",
 		"adjective": ["alien"],
 		"startBias": ["Badlands"],
 		"preferredVictoryType": "Diplomatic",
