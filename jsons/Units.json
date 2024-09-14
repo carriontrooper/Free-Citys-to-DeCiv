@@ -5,11 +5,15 @@
 		"uniqueTo": "Free Cites",
 		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 16,
-		"range": 1,
-		"cost": 36,
-		"uniques" ["Excess Food converted to Production when under construction",
+		"strength": 17,
+		"cost": 50,
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Militia",
+		"uniques": [
+			"Low Tech",
+			"[+50]% Strength <vs [Mounted] units>",
+			"Excess Food converted to Production when under construction"
 		],
-		"attackSound": "nonmetalhit",
+		"attackSound": "metalhit"
 	}
 ]
