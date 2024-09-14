@@ -2,7 +2,7 @@
 	{
 		"name": "Opolchenets",
 		"unitType": "Scrapper",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Free Cites",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 16,
