@@ -55,5 +55,20 @@
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Citywide assembly",
+		"replaces": "Congress",
+		"uniqueTo": "Free Cites",
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Gold] per [4] population [in all cities]",
+			"[-15]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Council]>",
+	        	"Destroyed when the city is captured"
+		],
 	}
-]
+		]
