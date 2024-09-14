@@ -1,31 +1,23 @@
 [
 	{
 		"name": "Free Cites",
-		"leaderName": "Zyxxyz",
+		"leaderName": "Basil Horov",
 		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Badlands"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We saw bombs falling to the ground and destroying everything behind them, everything that could be destroyed, but it did not destroy us. We are alive and we are ready to restore what was destroyed.",
+		"startIntroPart2": "Use your diplomatic capabilities to expand your influence and achieve a diplomatic victory. Good luck!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"declaringWar": "It's time to free your Cities from corporate shackles.",
+		"attacked": "Do you think you can crush our common people? No one will ever be able to do this, including you.",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "We knew that we weren't the only ones who had survived this nightmare. Welcome to the Free Cities.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"neutralHello": "Welcome",
+		"hateHello": "Be careful in your actions. We have known your evil nature for a long time.",
+		"afterPeace": "Let's stop this bloodshed for the sake of our peoples.",
+		"tradeRequest": "Let's bargain. It will be good for both of us.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
