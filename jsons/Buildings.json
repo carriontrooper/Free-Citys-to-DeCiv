@@ -1,27 +1,22 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 0,
-		"happiness": 2,
-		"culture": 1,
+		"name": "On the run",
 		"isWonder": true,
-		"uniques": ["Can only be built <in [Capital] cities>",
-			"Automatically built in all cities where it is buildable",
+		"uniqueTo": "New Star",
+		"culture": 1,
+		"production": 1,
+		"cost": 0,
+		"uniques": [
+			"[2] free [Spearman] appears",
+			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
-			"Provides [1] [Weapons]",
-			"[2] free [Opolchenets] units appear",
+			"Automatically built in all cities where it is buildable"
 		],
-	},
-	{
-		"name": "Opolchenie",
-		"replaces": "Barracks",
-		"uniqueTo": "Aliens",
-		"cost": 50,
-		"hurryCostModifier": 160,
-		"uniques": ["Free [Opolchenets] appears",
-		"New [Military] units start with [15] Experience [in this city]",
-		],
+		"quote": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties",
+		"civilopediaText": [
+			{
+				"text": "This Manifesto will be sacred to all Free Cities. He will consolidate our Unity in the face of difficulties"
+			}
+		]
 	}
 ]
