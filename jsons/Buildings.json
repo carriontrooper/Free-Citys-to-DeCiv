@@ -30,7 +30,8 @@
 			"Destroyed when the city is captured"]
 	},
 	{
-		"name": "Hardened Defenses",
+		"name": "Fortification",
+		"uniqueTo": "Free Cites",
 		"cityHealth": 90,
 		"hurryCostModifier": 25,
 		"uniques": [
