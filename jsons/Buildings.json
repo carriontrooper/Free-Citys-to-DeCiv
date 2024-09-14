@@ -40,5 +40,19 @@
 			"Creates a [Fort] improvement on a specific tile"
 		],
 		"requiredTech": "Steel"
-	}
+	},
+	{
+		"name": "Veche",
+		"replaces": "Town Hall",
+		"uniqueTo": "Free Cites",
+		"happiness": 1,
+		"culture": 1,
+		"specialistSlots": { "Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
 ]
