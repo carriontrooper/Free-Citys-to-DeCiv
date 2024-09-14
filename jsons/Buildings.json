@@ -63,7 +63,7 @@
 		"cost": 40,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"[+1 Gold] per [4] population [in all cities]",
+			"[+1 Gold, +1 Culture] per [4] population [in all cities]",
 			"[-15]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
