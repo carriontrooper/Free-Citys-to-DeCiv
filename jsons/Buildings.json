@@ -28,5 +28,16 @@
 		"uniques": ["Free [Opolchenets] appears",
 			"New [Military] units start with [15] Experience [in this city]",
 			"Destroyed when the city is captured"]
+	},
+	{
+		"name": "Hardened Defenses",
+		"cityHealth": 90,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Only available <in cities with a [Walls]>",
+			"Destroyed when the city is captured",
+			"Creates a [Fort] improvement on a specific tile"
+		],
+		"requiredTech": "Steel"
 	}
 ]
