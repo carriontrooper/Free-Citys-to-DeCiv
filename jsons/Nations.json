@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "Free Cites",
+		"leaderName": "Basil Horov",
 		"adjective": ["alien"],
 		"startBias": ["Badlands"],
 		"preferredVictoryType": "Diplomatic",
@@ -14,18 +14,18 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Welcome",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Be careful in your actions. We have known your evil nature for a long time.",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Let's stop this bloodshed for the sake of our peoples.",
+		"tradeRequest": "Let's bargain. It will be good for both of us.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
