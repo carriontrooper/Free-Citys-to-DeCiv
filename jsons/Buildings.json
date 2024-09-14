@@ -57,7 +57,7 @@
 		"requiredTech": "Civil Service"
 	},
 	{
-		"name": "Citywide assembly",
+		"name": "Citywide Assembly",
 		"replaces": "Congress",
 		"uniqueTo": "Free Cites",
 		"cost": 40,
@@ -67,7 +67,7 @@
 			"[-15]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
-			"Only available <in cities without a [Council]>",
+			"Only available <in cities without a [Unified Council]>",
 	        	"Destroyed when the city is captured"
 		],
 	}
