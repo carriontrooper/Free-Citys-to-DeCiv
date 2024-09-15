@@ -38,14 +38,7 @@
 			"Starts with [Expansionism] adopted",
 			"City-State Influence recovers at twice the normal rate"
 		],
-		"cities": [
-			"Troeholmsk",
-			"Hatki",
-			"Svetorechino",
-			"Nowyy Brest",
-			"Mirsky zamok",
-			"Baranowichi",		
-		],
-			
+		"cities": [	
+		],		
 	}
 ]
