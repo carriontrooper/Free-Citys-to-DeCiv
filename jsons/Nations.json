@@ -37,8 +37,6 @@
 			"City-State territory always counts as friendly territory",
 			"Starts with [Expansionism] adopted",
 			"City-State Influence recovers at twice the normal rate"
-		],
-		"cities": [	
 		],		
 	}
 ]
