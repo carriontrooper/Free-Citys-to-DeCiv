@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Free Cites",
-		"leaderName": "Willand Keiji",
-		"adjective": ["Star"],
-		"startBias": ["Wasteland"],
+		"leaderName": "Basil Horov",
+		"adjective": [":::"],
+		"startBias": ["Badlands"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Keiji",
+		"personality": "Survivalist",
 		"favoredReligion": "Liberty",
 
 		"startIntroPart1": "We saw bombs falling to the ground and destroying everything behind them, everything that could be destroyed, but it did not destroy us. We are alive and we are ready to restore what was destroyed.",
@@ -33,30 +33,23 @@
 			"Hatki",
 			"Mirsky zamok",
 			"Vigonochanskoe",
-			"Baranòwichi",
+			"Barànowichi",
 			"Nowyy Brest",
-			"Highnimon",
-			"Inford",
-			"Melderk",
-			"Thallas",
-			"Nedaleck",
-			"Douridas Pier",
-			"Silverman Port",
-			"Dalbete",
-			"Light Otis",
-			"Meckenberg"
+			"Minsky trackt",
+			"Vilia",
+			"Bobruisk",
 		],
 		"spyNames": [
-			"Henry",
-			"Jim",
-			"Clarice",
-			"Juliet",
-			"Ashlee",
-			"Robyn",
-			"Ben",
-			"Jodie",
-			"Harvey",
-			"Juno"
+			"Agata",
+			"Boris",
+			"Svatogor",
+			"Potap",
+			"Akim",
+			"Malvina",
+			"Anna",
+			"Taras",
+			"Mstislav",
+			"Sokrat"
 		]
 	}
 ]
