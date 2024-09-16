@@ -6,10 +6,10 @@
 		"startBias": ["Wasteland"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Keiji",
-		"favoredReligion": "Humanism",
+		"favoredReligion": "Liberty",
 
-		"startIntroPart1": "'When the Cataclysm happened, there were many that felt lost. Like the world was too far gone. I always had hope, but sometimes it's hard to keep it. Ever since we came out, the world has felt like a jungle. Ruled by wild beasts.'",
-		"startIntroPart2": "'But I got lucky. I found my platoon. My family. I think people seem to forget it, but fundamental rights? Democracy? Those were the result of natural progress. Of us seeing what worked, and what didnt. And as long as we keep marching backwards like this, we will never be better. The world had given me a second chance. And so I give you one as well. We go around the world gathering people like us. That see the world not for what it. But for what it can be. A New Star.'",
+		"startIntroPart1": "We saw bombs falling to the ground and destroying everything behind them, everything that could be destroyed, but it did not destroy us. We are alive and we are ready to restore what was destroyed.",
+		"startIntroPart2": "Use your diplomatic capabilities to expand your influence and achieve a diplomatic victory!",
 		"declaringWar": "Let's go!",
 		"attacked": "Everyone! Defense Positions!",
 		"defeated": "This is... not the end.",
