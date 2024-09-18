@@ -101,7 +101,7 @@
 			"[+1 Faith] from [Artifacts] tiles [in this city]", 
 			"Destroyed when the city is captured"
 		],
-		"requiredTech": "Machinery"
+		"requiredTech": "Education"
 	},
 ]
 		
