@@ -7,3 +7,4 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License. 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
+* [team work] (https://thenounproject.com/icon/teamwork-5968126/) by SURA DADI
