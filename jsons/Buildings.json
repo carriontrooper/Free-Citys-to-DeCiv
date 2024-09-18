@@ -35,7 +35,6 @@
 		"cityHealth": 90,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured",
 			"Creates a [Fort] improvement on a specific tile"
@@ -85,7 +84,7 @@
 			"[+10]% growth [in all cities]",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Citywide Congress]>",
-			"[+15]% Production when constructing [Fortification] buildings [in all cities]",
+			"[+15]% Production when constructing [Walls] buildings [in all cities]",
 			"Destroyed when the city is captured"
 		],
 	},
