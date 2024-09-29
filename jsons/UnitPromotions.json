@@ -3,4 +3,8 @@
     "name": "Liberator of Cities",
     "uniques": [
       "[+10]% Strength <vs cities>"
+    ]
+    "column": 3,
+        "row": 8
+  }
 ]
