@@ -3,9 +3,5 @@
     "name": "Liberator of Cities",
     "uniques": [
       "[+10]% Strength <vs cities>"
-    ],
-    "unitTypes": ["Scrapper", "Shooter", "Mounted"],
-    "row": 6,
-    "column": 15
   }
 ]
