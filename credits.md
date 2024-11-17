@@ -13,3 +13,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [village] by susi susanti from https://thenounproject.com/creator/ssusanti/
 [Manifesto] by nareerat jaikaew from https://thenounproject.com/creator/piipimm.pz
 [Fortification] by iconcheese from https://thenounproject.com/creator/icon.cheese
+[Hall] by PARDILA from https://thenounproject.com/creator/adilahnurulkarimah12/
