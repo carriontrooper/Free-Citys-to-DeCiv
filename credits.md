@@ -11,3 +11,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
  collaboration by Imron Sadewo from <a href="https://thenounproject.com/browse/icons/term/collaboration/" target="_blank" title="collaboration Icons">Noun Project</a> (CC BY 3.0)
 [Unity] by heri kusyanto from https://thenounproject.com/creator/herikus/
 [village] by susi susanti from https://thenounproject.com/creator/ssusanti/
+[Manifesto] by nareerat jaikaew from https://thenounproject.com/creator/piipimm.pz
