@@ -66,4 +66,11 @@
 		"preferredVictoryType": "Domination",
 		"personality": "volyansky",
 		"favoredReligion": "Pravoslavie",
+		"declaringWar": "Let's go!",
+		"attacked": "Everyone! Defense Positions!",
+		"defeated": "This is... not the end.",
+		"introduction": "A dream. That's all it takes to keep going.",
+		"neutralHello": "Hello.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "We both stand",
 ]
