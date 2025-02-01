@@ -62,5 +62,8 @@
 		"name": "The Eagle Guard",
 		"leadername": "Alexander Volyansky",
 		"adjective": [":::"],
-		"
+		"StartBias": ["Wasteland"],
+		"preferredVictoryType": "Domination",
+		"personality": "volyansky",
+		"favoredReligion": "Objectivism",
 ]
