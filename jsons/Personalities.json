@@ -75,5 +75,37 @@
 			"Mechanization": 10,
 			"Bionics": 10
 		}
+},
+	{
+		"name": "",
+		"production": 7,
+		"food": 8,
+		"gold":6 ,
+		"science": 5,
+		"culture": 5,
+		"happiness": 8,
+		"faith": 5,
+		"military": 7,
+		"aggressive": 4,
+		"declareWar": 4,
+		"commerce": 6,
+		"diplomacy": 8,
+		"loyal": 8,
+		"expansion": 10,
+		"priorities": {
+			"Adaptation": 0,
+			"Expansionism": 50,
+			"Sovereignty": 10,
+			"Theocracy": 10,
+			"Rationalism": 30,
+			"Constitution": 30,
+			"Supremacy": 0,
+			"Monopoly": 30,
+			"Collectivism": 30,
+			"Naturalism": 10,
+			"Mechanization": 10,
+			"Bionics": 10
+	}
 }
+		
 ]
