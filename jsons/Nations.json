@@ -75,4 +75,10 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "You're walking on thin ice. Pray that it cracks under you...",
 		"tradeRequest": "What do you think about this?",
+		"outerColor": [65, 45, 65],
+		"innerColor": [77, 33, 77],
+		"style": "",
+		"uniqueName": "The great goal",
+		"uniques": [
+			
 ]
