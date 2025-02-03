@@ -79,7 +79,13 @@
 		"innerColor": [77, 33, 77],
 		"style": "",
 		"uniqueName": "The great goal",
-		"uniques": ["[-15]% maintenance costs <for [Land] units>"], 
+		"uniques": ["[-15]% maintenance costs <for [Land] units>",
+		"[+15]% Production when constructing [Military] units [in all cities]",
+		"[-1 Happiness] [in all cities]",
+		"Starts with [Iron Working]",
+		"Russian Unifier",
+		
+		], 
 		
 			
 ]
