@@ -85,7 +85,17 @@
 		"[-1 Happiness] [in all cities]",
 		"Starts with [Iron Working]",
 		"Russian Unifier"
-		], 
+		],
+		"cities": [
+			"Tumnin",
+			"Mulinka",
+			"Wisokogorniy",
+			"Wrangel",
+			"Ruskia gawan",
+			"Belogwardeisk-na-Amure",
+			"Pribaikalsk",
+			"Kolchakowslav",
+			"Witimsk",
 		
 			
 ]
