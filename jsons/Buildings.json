@@ -103,5 +103,13 @@
 		],
 		"requiredTech": "Education"
 	},
+	{
+		"name": "Unity manifesto",
+		"isWonder": true,
+		"uniqueTo": "Free Cites",
+		"culture": 1,
+		"production": 1,
+		"cost": 0,
+		"uniques": [
 ]
 		
