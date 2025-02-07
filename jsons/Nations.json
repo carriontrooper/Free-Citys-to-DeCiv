@@ -96,7 +96,28 @@
 			"Pribaikalsk",
 			"Kolchakowslav",
 			"Witimsk",
-			"Blizneudinsk"
+			"Blizneudinsk",
+			"Novotomsk",
+			"Dalekiy",
+			"Dutow",
+			"Kápelsk",
+			"Diterhis",
+			"Denikogo",
+			"Kornilovsk",
+			"Krasnow",
+			"Bermont",
+			"Ilin",
+		],
+	        "spyNames": [
+			"Ivan",
+			"Petr",
+			"Nicolay",
+			"Aleksey",
+			"Pavel",
+			"Uriy",
+			"Arkady"
+		]
+	}
 		
 			
 ]
