@@ -1,5 +1,1 @@
-# Unciv-mod-example
-
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+A small mod that adds one (and in the future, another faction for DeCiv)
