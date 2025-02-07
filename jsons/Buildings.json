@@ -106,10 +106,11 @@
 	{
 		"name": "Unity manifesto",
 		"isWonder": true,
-		"uniqueTo": "Free Cites",
-		"culture": 1,
-		"production": 1,
+		"uniqueTo": "The Eagle Guard",
+		"culture": 3,
+		"gold": 2,
 		"cost": 0,
 		"uniques": [
+			
 ]
 		
