@@ -191,7 +191,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 20,
 		"requiredTech": "Education",
-		"uniques": ["Only available <in cities with a [Musalla]>",
+		"uniques": ["Only available <in cities with a [Shrine]>",
 			"Only available <when religion is enabled>",
 			"[+5]% Production when constructing [Military] units [in this city]",
 			"[Personnel] units gain the [Military priests] promotion",
@@ -213,6 +213,25 @@
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "The Constituent Assembly",
+		"replaces": "Congress",
+		"uniqueTo": "The Eagle Guard",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Production , +1 Culture] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"[+1 Happiness] [in all cities connected to capital]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+
+
 
 
 
