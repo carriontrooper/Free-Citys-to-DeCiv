@@ -143,7 +143,7 @@
 	{
 		"name": "Raise the survivors",
 		"cost": 20,
-		"uniqueTo": "Crimson Legion",
+		"uniqueTo": "The Eagle Guard",
 		"replaces": "Search for Survivors",
 		"isNationalWonder": true,
 		"gold": 1,
@@ -156,7 +156,7 @@
 	{
 		"name": "Field court",
 		"replaces": "Prison Camp",
-		"uniqueTo": "Commonwealth",
+		"uniqueTo": "The Eagle Guard",
 		"happiness": -1,
 		"percentStatBonus": {"food": -5},
 		"hurryCostModifier": 25,
@@ -198,6 +198,20 @@
 			],
 	},
 	{
+		{
+		"name": "Gorodnichy",
+		"replaces": "Town Hall",
+		"uniqueTo": "The Eagle Guard",
+		"happiness": 1,
+		"culture": 1,
+		"specialistSlots": { "Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
 
 
 
