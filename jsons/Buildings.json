@@ -105,7 +105,7 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Unity manifesto",
+		"name": "",
 		"isWonder": true,
 		"uniqueTo": "The Eagle Guard",
 		"culture": 3,
@@ -115,6 +115,7 @@
 			"Provides [1] [Weapons]",
 			"[+5]% Production when constructing [Military] units [in this city]",
 			"Free [] appears",
+			"Gain a free [Food Store] [in this city]",
 			
 			
 ]
