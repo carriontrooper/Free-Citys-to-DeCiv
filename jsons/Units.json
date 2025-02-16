@@ -19,7 +19,7 @@
 	{
 		"name": "Druzina",
 		"unitType": "Scrapper",
-		"uniqueTo": "The Harbingers",
+		"uniqueTo": "The Eagle Guard",
 		"replaces": "Militia",
 		"movement": 2,
 		"strength": 36,
