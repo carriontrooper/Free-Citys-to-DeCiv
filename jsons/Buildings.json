@@ -116,6 +116,7 @@
 			"[+5]% Production when constructing [Military] units [in this city]",
 			"Free [Druzina] appears",
 			"Gain a free [Food Store] [in this city]",
+			"Gain a free [Ostrog] [in this city]",
 			"Automatically built in all cities where it is buildable",
 		],
 		"quote": "Here, in his unprepossessing palace, Volyansky rules his lands with an iron fist, becoming a king and God for most of the inhabitants on whose territories he built his kingdom.",
@@ -126,6 +127,19 @@
 		]
 	},
 	{
+		
+		"name": "Ostrog",
+		"replaces": "Barracks",
+		"uniqueTo": "The Eagle Guard",
+		"cost": 50,
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"Destroyed when the city is captured"
+		],
+	},
 			
 ]
 		
