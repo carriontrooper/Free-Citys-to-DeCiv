@@ -15,5 +15,22 @@
 			"Excess Food converted to Production when under construction"
 		],
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Druzina",
+		"unitType": "Scrapper",
+		"uniqueTo": "The Harbingers",
+		"replaces": "Militia",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 65,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Soldier",
+		"hurryCostModifier": -20,
+		"uniques": ["Personnel"],
+		"promotions": ["Entrench"],
+		"attackSound": "machinegun"
+	},
 ]
