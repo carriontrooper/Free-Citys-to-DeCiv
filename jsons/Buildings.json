@@ -140,6 +140,59 @@
 			"Destroyed when the city is captured"
 		],
 	},
+	{
+		"name": "Raise the survivors",
+		"cost": 20,
+		"uniqueTo": "Crimson Legion",
+		"replaces": "Search for Survivors",
+		"isNationalWonder": true,
+		"gold": 1,
+		"uniques": [
+			"Provides [1] [Slaves]",
+			"[+1] population [in all cities]",
+			"Free [Civilian Convoy] appears"
+		]
+	},
+	{
+		"name": "Field court",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Commonwealth",
+		"happiness": -1,
+		"percentStatBonus": {"food": -5},
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Provides [2] [Slaves]",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "The Exile zone",
+		"replaces": "Work Camp",
+		"uniqueTo": "The Eagle Guard",
+		"food": "2",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"[+1 Culture] [in this city] <with [Slaves]>",
+			"Consumes [1] [Slaves]",
+			"Only available <with [Slaves]>",
+		],
+		"requiredTech": "Construction"
+	},
+
+
+
+
+
+
+
+
+
+	
 			
 ]
 		
