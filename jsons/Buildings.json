@@ -84,7 +84,7 @@
 			"[+10]% growth [in all cities]",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Citywide Assembly]>",
-			"[+15]% Production when constructing [Walls] buildings [in all cities]",
+			"[+15]% Production when constructing [] buildings [in all cities]",
 			"Destroyed when the city is captured"
 		],
 	},
