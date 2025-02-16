@@ -226,22 +226,24 @@
 			"[+1 Happiness] [in all cities connected to capital]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
-			"Only available <in cities without a [Council]>",
-			"Destroyed when the city is captured"
+			"Only available <in cities without a [The State Duma]>",
+			"Destroyed when the city is captured",
 		]
 	},
-
-
-
-
-
-
-
-
-
-
-
-	
-			
-]
-		
+	{
+		"name": "The State Duma",
+		"replaces": "Council",
+		"uniqueTo": "Free Cites",
+		"cost": 150,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% Production when constructing [All] units [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in this city]",
+			"[+5]% growth [in all cities]",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [The Constituent Assembly]>",
+			"Destroyed when the city is captured",
+			"[Great General] is earned [25]% faster",	
+		],
+	}
+]		
