@@ -198,7 +198,6 @@
 			],
 	},
 	{
-		{
 		"name": "Gorodnichy",
 		"replaces": "Town Hall",
 		"uniqueTo": "The Eagle Guard",
