@@ -33,4 +33,23 @@
 		"promotions": ["Entrench"],
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Dobrsoldat",
+		"unitType": "Scrapper",
+		"uniqueTo": "",
+		"replaces": "Soldier",
+		"movement": 2,
+		"strength": 40,
+		"interceptRange": 1,
+		"cost": 230,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Infantry",
+		"hurryCostModifier": 20,
+		"promotions": ["Gas Mask"],
+		"uniques": [
+			"Personnel",
+			"[+1] Movement <in [Friendly Land] tiles>"
+		],	
+		"attackSound": "machinegun"
+	}
 ]
