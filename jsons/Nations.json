@@ -76,7 +76,7 @@
 		"hateHello": "You're walking on thin ice. Pray that it doesn't crack under you...",
 		"tradeRequest": "What do you think about this?",
 		"outerColor": [65, 45, 65],
-		"innerColor": [77, 33, 77],
+		"innerColor": [35, 15, 35],
 		"style": "",
 		"uniqueName": "The great goal",
 		"uniques": ["[-15]% maintenance costs <for [Land] units>",
