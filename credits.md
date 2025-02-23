@@ -14,4 +14,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Manifesto] by nareerat jaikaew from https://thenounproject.com/creator/piipimm.pz
 [Fortification] by iconcheese from https://thenounproject.com/creator/icon.cheese
 [Hall] by PARDILA from https://thenounproject.com/creator/adilahnurulkarimah12/
-  [Sword and shield] by ps://thenounproject.com/creator/Graphixs_Art/
+  [Sword and shield] by https://thenounproject.com/creator/Graphixs_Art/
