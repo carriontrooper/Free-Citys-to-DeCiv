@@ -17,6 +17,22 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Traveling ambassador",
+		"unitType": "Scout",
+		"uniqueTo": "Free Cites",
+		"replaces": "Civilian Convoy",
+		"movement": 2,
+		"strength": 12,
+		"cost": 100,
+		"uniques": [
+			"Low Tech",
+			"[+100]% Strength <vs [Barbarian] units>",
+			"[+50]% Strength <when defending>",
+			"[-100]% Strength <when attacking>"
+		],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Druzina",
 		"unitType": "Scrapper",
 		"uniqueTo": "The Eagle Guard",
