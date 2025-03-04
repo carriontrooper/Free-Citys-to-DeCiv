@@ -74,38 +74,5 @@
 			"Naturalism": 10,
 			"Mechanization": 10,
 			"Bionics": 10
-		}
-},
-	{
-		"name": "Volyansky",
-		"production": 4,
-		"food": 6,
-		"gold":6 ,
-		"science": 3,
-		"culture": 6,
-		"happiness": 6,
-		"faith": 7,
-		"military": 7,
-		"aggressive": 7,
-		"declareWar": 6,
-		"commerce": 8,
-		"diplomacy": 5,
-		"loyal": 7,
-		"expansion": 6,
-		"priorities": {
-			"Adaptation": 5,
-			"Expansionism": 10,
-			"Sovereignty": 30,
-			"Theocracy": 15,
-			"Rationalism": 0,
-			"Constitution": 20,
-			"Supremacy": 30,
-			"Monopoly": 10,
-			"Collectivism": 0,
-			"Naturalism": 0,
-			"Mechanization": 0,
-			"Bionics": 10
-	}
-}
-		
+       }	
 ]
