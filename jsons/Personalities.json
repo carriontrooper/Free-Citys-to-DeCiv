@@ -1,50 +1,4 @@
 [
-	/*
-
-	Here is a template to show what values should be filled in. 
-	Use the description at http://civdata.com/, and adjust the numbers accordingly.
-	Even then, its up to personal interpretation.
-	To generate lines with multiple parameters I used the function: (FirstParam + (SecondParam - 5) / 2).
-
-	{
-		"name": "Template",
-		// Stats focused personalities
-		"culture": Culture,
-		"faith": Religion,
-		"food": Growth,
-		"gold": Gold,
-		"happiness": Happiness,
-		"production": Production,
-		"science": Science,
-		// Behavour focused personalities
-		"military": Military Training,
-		"aggressive": Offensive or (10 - defensive) which ever is higher,
-		"declareWar": War,
-		"commerce": Gold + Chattiness,
-		"diplomacy": Diplomatic Balance + Friendly,
-		"loyal": Loyalty + Defense,
-		"expansion": Expansion,
-
-		"priorities": {
-			"Adaptation": Growth + Culture + Defensive,
-			"Expansionism": Expansion + CityStateCompetitiveness + CSFriendly,
-			"Sovereignty": Boldness + War,
-			"Theocracy": Religion + War,
-			"Rationalism": Science + Terraformer,
-			"Constitution": Growth + Culture + Happiness,
-			"Supremacy": Boldness + War,
-			"Monopoly": Gold + Chattiness + CityStateCompetitiveness + CSFriendly,
-			"Collectivism": Defensive + Production,
-			"Naturalism": Growth + Culture + Happiness,
-			"Mechanization": Boldness + Production + Military training,
-			"Bionics": Boldness + Science + Military training + Terraformer
-		},
-		"civilopediaText": [
-			{"text": "."}
-		]
-	},
-*/
-
 	{
 		"name": "Horov",
 		"production": 7,
@@ -65,7 +19,7 @@
 			"Adaptation": 0,
 			"Expansionism": 50,
 			"Sovereignty": 10,
-			"Theocracy": 10,
+	                "Theocracy": 10,
 			"Rationalism": 30,
 			"Constitution": 30,
 			"Supremacy": 0,
@@ -74,5 +28,6 @@
 			"Naturalism": 10,
 			"Mechanization": 10,
 			"Bionics": 10
-       }	
+       }
+	}
 ]
