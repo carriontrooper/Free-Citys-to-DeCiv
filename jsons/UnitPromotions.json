@@ -6,13 +6,5 @@
     ]
     "column": 9,
         "row": 9
-  },
-  {
-    "name": "Military priests",
-    "uniques": [
-      "[+5]% Strength <when attacking>"
-    ]
-    "column": 10,
-        "row": 10
   }
 ]
