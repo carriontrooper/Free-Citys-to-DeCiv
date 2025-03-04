@@ -56,68 +56,7 @@
 			"Taras",
 			"Mstislav",
 			"Sokrat"
-		]
-	},
-	{
-		"name": "The Eagle Guard",
-		"leadername": "Alexander Volyansky",
-		"adjective": [":::"],
-		"StartBias": ["Wasteland"],
-		"preferredVictoryType": "Domination",
-		"personality": "Volyansky",
-		"favoredReligion": "Pravoslavie",
-		"startIntroPart1": "Many people despaired at such a terrible hour for the entire planet...But not us. While they mourned the miserable end of the old world, we gathered strength to unite what was once split and now our time has come.",
-		"startIntroPart2": "Use the unshakeable faith and unstoppable power of the Guard to achieve victories over your enemies and become the restore the Homeland!",
-		"declaringWar": "You have stood in the way of our former greatness.",
-		"attacked": "As they say, whoever comes with a sword will die by the sword...",
-		"defeated": "So our Homeland is plunging into darkness again...",
-		"introduction": "Greetings, wanderer.Here, we are fighting for our mutilated Homeland. I hope you won't interfere with this.",
-		"neutralHello": "Greetings.",
-		"hateHello": "You're walking on thin ice. Pray that it doesn't crack under you...",
-		"tradeRequest": "What do you think about this?",
-		"outerColor": [75, 89, 30],
-		"innerColor": [75, 30, 89],
-		"style": "",
-		"uniqueName": "The great goal",
-		"uniques": ["[-15]% maintenance costs <for [Land] units>",
-		"[+15]% Production when constructing [Military] units [in all cities]",
-		"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-		"[-1 Happiness] [in all cities]",
-		"Starts with [Iron Working]",
-		"Russian Unifier"
-		],
-		"cities": [
-			"Tumnin",
-			"Mulinka",
-			"Wisokogorniy",
-			"Wrangel",
-			"Ruskia gawan",
-			"Belogwardeisk-na-Amure",
-			"Pribaikalsk",
-			"Kolchakowslav",
-			"Witimsk",
-			"Blizneudinsk",
-			"Novotomsk",
-			"Dalekiy",
-			"Dutow",
-			"Kápelsk",
-			"Diterhis",
-			"Denikogo",
-			"Kornilovsk",
-			"Krasnow",
-			"Bermont",
-			"Ilin",
-		],
-	        "spyNames": [
-			"Ivan",
-			"Petr",
-			"Nicolay",
-			"Aleksey",
-			"Pavel",
-			"Uriy",
-			"Arkady"
-		]
+	        ]
 	}
-		
-			
 ]
+	
