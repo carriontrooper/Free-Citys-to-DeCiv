@@ -2,7 +2,7 @@
 	{
 		"name": "Unity manifesto",
 		"isWonder": true,
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"culture": 1,
 		"production": 1,
 		"cost": 0,
@@ -22,7 +22,7 @@
 	{
 		"name": "Opolchenie",
 		"replaces": "Barracks",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": ["Free [Opolchenets] appears",
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Fortification",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"cityHealth": 90,
 		"hurryCostModifier": 25,
 		"uniques": [
@@ -44,7 +44,7 @@
 	{
 		"name": "Veche",
 		"replaces": "Town Hall",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"happiness": 1,
 		"culture": 1,
 		"specialistSlots": { "Administrator": 1 },
@@ -59,7 +59,7 @@
 	{
 		"name": "Citywide Assembly",
 		"replaces": "Congress",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"cost": 40,
 		"requiredTech": "Civil Service",
 		"uniques": [
@@ -75,7 +75,7 @@
 	{
 		"name": "Unified Council",
 		"replaces": "Council",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
@@ -91,7 +91,7 @@
 	{
 		"name": "Allea pamati",
 		"replaces": "Stadium",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"happiness": 1,
 		"culture": 1,
 		"maintenance": 2,
