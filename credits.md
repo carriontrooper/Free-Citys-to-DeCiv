@@ -11,3 +11,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
   [Sword and shield] by https://thenounproject.com/creator/Graphixs_Art/
   [ambassador] https://thenounproject.com/creator/iconmicrostock/ by saidatun
 [Citywide Assembly] https://thenounproject.com/creator/AmethystStudio/ by Amethyst Studio
+[Unified Counsil] https://thenounproject.com/creator/bfarias/ by b farias
