@@ -16,3 +16,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Hall] by PARDILA from https://thenounproject.com/creator/adilahnurulkarimah12/
   [Sword and shield] by https://thenounproject.com/creator/Graphixs_Art/
   [ambassador] https://thenounproject.com/creator/iconmicrostock/ by saidatun
+[Citywide Assembly] https://thenounproject.com/creator/AmethystStudio/ by Amethyst Studio
