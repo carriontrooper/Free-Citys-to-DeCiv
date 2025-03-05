@@ -2,7 +2,7 @@
 	{
 		"name": "Opolchenets",
 		"unitType": "Scrapper",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 17,
@@ -19,7 +19,7 @@
 	{
 		"name": "Traveling ambassador",
 		"unitType": "Scout",
-		"uniqueTo": "Free Cites",
+		"uniqueTo": "Free Citys",
 		"replaces": "Civilian Convoy",
 		"movement": 3,
 		"strength": 12,
