@@ -28,7 +28,9 @@
 			"Low Tech",
 			"[+100]% Strength <vs [Barbarian] units>",
 			"[+50]% Strength <when defending>",
-			"[-100]% Strength <when attacking>"
+			"[-100]% Strength <when attacking>",
+			"Requires at least [2] population",
+			"Founds a new city <by consuming this unit>"
 		],
 		"attackSound": "shot"
 	}
