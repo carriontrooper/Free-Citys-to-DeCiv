@@ -12,3 +12,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
   [ambassador] https://thenounproject.com/creator/iconmicrostock/ by saidatun
 [Citywide Assembly] https://thenounproject.com/creator/AmethystStudio/ by Amethyst Studio
 [Unified Counsil] https://thenounproject.com/creator/bfarias/ by b farias
+[allea pamati] https://thenounproject.com/creator/ppdbsmkju/ Soetarman Atmodjo
