@@ -26,7 +26,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": ["Free [Opolchenets] appears",
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"Destroyed when the city is captured"]
 	},
 	{
